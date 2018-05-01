@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+    color: #34313A;
+    font-family: 'Open Sans', arial;
+    font-size: 100%;
+    background-color: #f9f9f9;
+}
+
+#box {
+    width: 80%;
+    margin: auto;
+    border-radius: 4px;
+/*  background: #EDECEE; */
+    padding: 8px;
+    overflow: auto;
+}
+
+.card {
+    background-color: #ffffff;
+    width: 49%;
+    float: left;
+    border: 1px solid #C8C8C7;
+    margin: 1px;
+    min-height: 200px;
+    max-height: 200px;
+    overflow: hidden;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+#do {
+    background-color: #DE3F3F;
+}
+
+#decide {
+    background-color: #24CC8F;
+}
+
+#delegate {
+    background-color: #50B5E9;
+}
+
+#delete {
+    background-color: #FF944C;
+}
+
+.label {
+    padding:5px;
+    font-weight: bold;
+}
