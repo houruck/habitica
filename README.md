@@ -2,6 +2,8 @@
 
 This PHP script generates a custom view of your tagged Habitica tasks based on the [Eisenhower method](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method).
 
+![Image of matrix](http://houruck.hu/pix/habitica_eisenhower.png)
+
 ## Dependencies:
 * [Habitica PHP](https://github.com/ruddfawcett/Habitica.php)
 * php-curl
